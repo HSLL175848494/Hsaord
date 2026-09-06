@@ -8,10 +8,8 @@
 
 软件还会跟踪待结算订单，保存订单明细与结算结果，并展示收益表现、胜负比例和月度交易热力图，方便用户了解整体交易情况。
 
-<img width="882" height="1920" alt="B00F6927BE5ED6E537C91FC60BBC0AA7" src="https://github.com/user-attachments/assets/4623a5cf-1e5f-4cd7-9042-ef77fdcce399" />
-
-<img width="882" height="1920" alt="012220D7CAF7BBBCDC7856E1CC5569D6" src="https://github.com/user-attachments/assets/1fc4ef77-0d9a-4442-b481-2db11f8b8f42" />
-
+8月实盘
+<img width="441" height="960" alt="d72e74e3b72c4879cebc969bed390efa_720" src="https://github.com/user-attachments/assets/358e0060-fe70-4cdc-adff-85e8838db8ff" />
 
 
 ## 交流与支持
