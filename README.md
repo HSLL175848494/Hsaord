@@ -14,7 +14,7 @@ Android 用户的事件合约自动交易工具，支持 Binance（币安）BTCU
 
 9月实盘（更新日期9月6日）
 
-<img width="441" height="960" alt="05f47712d6aa3edab14635ec6e3c5f84_720" src="https://github.com/user-attachments/assets/8964a028-680a-4d08-ae42-8c25a2898cc3" />
+<img width="441" height="960" alt="ef63f190f979ce23a6aab01f7753eb42_720" src="https://github.com/user-attachments/assets/148f84c2-de96-4274-addc-198121742b5c" />
 
 ## 交流与支持
 
