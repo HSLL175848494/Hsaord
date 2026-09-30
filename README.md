@@ -1,5 +1,3 @@
-<img width="882" height="1920" alt="297eb62fa65374e325fc13c62c9236f7" src="https://github.com/user-attachments/assets/a421ce8f-5fbf-437a-b336-1c532a7c7eda" /># Hsaord
-
 Android 用户的事件合约自动交易工具，支持 Binance（币安）BTCUSDT 事件合约。低延迟，低回撤。
 
 ## 核心功能
